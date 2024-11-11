@@ -1,5 +1,5 @@
-baseURL: "https://pascalmichaillat.org/hugo-website/" 
-title: Moritz-Maria von Igelfeld
+baseURL: "https://tucanotech.co.uk/" 
+title: Tucano Teachnology
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -52,9 +52,9 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Professor Dr von Igelfeld
-          subtitle: "I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dieter Vogelsang in Munich, and later a second assistant of Professor Walter Schoeffler-Henschell at the University of Wiesbaden."
-          imageUrl: "picture.jpeg"
+          title: Tucano Technology
+          subtitle: "Tucano Technology specializes in Automated Testing and QA, Cloud Migration, and DevOps, including CI/CD, for cloud support. We empower businesses with efficient, scalable cloud solutions, ensuring seamless transitions, enhanced software quality, and rapid innovation. Our expert team tailors strategies to meet unique needs, driving success in the digital landscape."
+          imageUrl: "tucanoOnly.png"
           imageWidth: 160
           imageHeight: 160
           buttons:
@@ -64,36 +64,14 @@ params:
               url: courses/
             - name: Data
               url: data/
-            - name: Books
-              url: books/
             - name: Tags
               url: tags/
             - name: Archive
               url: archive/
-            - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
     socialIcons:
-        - name: CV
-          url: cv.pdf
-        - name: Email
-          url: mailto:moritz.maria.von.igelfeld@gmail.com
-        - name: Zoom
-          url: https://www.zoom.us/my/igelfeld
-        - name: Location
-          url: location/
-        - name: Office Hours
-          url: officehours/
-        - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
         - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
-        - name: YouTube
-          url: https://www.youtube.com/@alexandermccallsmithoffici9000
-        - name: Twitter
-          url: https://twitter.com/McCallSmith
+          url: https://github.com/TucanoTechnology
 
     assets:
         disableScrollBarStyle: true
@@ -101,7 +79,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
+      text: "Tucano Technology"
       icon: favicon.ico
       iconHeight: 18
 
