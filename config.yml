@@ -51,13 +51,14 @@ params:
               url: location/
             - name: Office Hours
               url: officehours/
+            - name: UKGov
+              imageURL: ukgovsupplier.png
+              url: https://www.applytosupply.digitalmarketplace.service.gov.uk/g-cloud/supplier/721360
+
 
     socialIcons:
         - name: GitHub
           url: https://github.com/TucanoTechnology
-        - name: UKGovSupplier
-          url: https://www.applytosupply.digitalmarketplace.service.gov.uk/g-cloud/supplier/721360
-          icon: ukgovsupplier.png
 
     assets:
         disableScrollBarStyle: true
